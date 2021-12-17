@@ -1,0 +1,2 @@
+# profitbot
+cryptobot
